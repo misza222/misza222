@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am currently working on NeRFs. Please check out my [linkedin](https://linkedin.com/in/misza/) and [blog](https://misza222.github.io/)
+I am currently working on [NeRFs](https://paperswithcode.com/sota/novel-view-synthesis-on-nerf). Please check out my [linkedin](https://linkedin.com/in/misza/) and [blog](https://misza222.github.io/)
 
 <!--
 **misza222/misza222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
