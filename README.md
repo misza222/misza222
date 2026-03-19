@@ -1,18 +1,29 @@
-### Hi there 👋
+# Hi, I'm Michał 👋
 
-I am currently working on [NeRFs](https://paperswithcode.com/sota/novel-view-synthesis-on-nerf) at VFX company [Pixomondo](https://www.pixomondo.com/). Please check out my [linkedin](https://linkedin.com/in/misza/) and [blog](https://misza222.github.io/)
+AI Engineer in Warsaw, building LLM-powered applications and agentic systems.
 
-<!--
-**misza222/misza222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+8+ years across ML, VFX production, enterprise data, and software architecture.
+Now focused on **context engineering**, **agentic AI**, and bringing research into production.
 
-Here are some ideas to get you started:
+## Current projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 **[llm_coach](https://github.com/misza222/llm_coach)** — AI coaching app with multi-layer memory
+(working/episodic/semantic), structured CoT via Instructor, LLM-as-Judge evaluation (14 criteria),
+OAuth, pluggable persistence. Python, FastAPI, React.
+
+🔍 **[choose-model](https://github.com/misza222/choose-model)** — CLI that fetches models from OpenRouter,
+filters by price, benchmarks for latency & capability across 3 tiers. Rust.
+
+🔄 **[simpla_loop](https://github.com/misza222/simpla_loop)** — Educational framework for agentic loop
+patterns (ReAct, Plan-and-Solve, Reflexion). Clean abstractions, full type annotations. Python.
+
+## Background
+
+- **Senior ML Engineer @ Pixomondo** (2023–2025) — NeRFs & Gaussian Splatting for VFX
+- **Data Engineer @ Boehringer Ingelheim** (2018–2022) — ETL, forecasting, automated reporting
+- **Software Architect** (2012–2017) — APIs, ML solutions; founded Ordys (SaaS, 8 years)
+- **PGCert Software Engineering** — University of Oxford
+
+## Links
+
+[LinkedIn](https://www.linkedin.com/in/misza/) · [Blog](https://misza222.github.io/) · misza222@gmail.com
