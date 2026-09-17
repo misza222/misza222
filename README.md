@@ -15,4 +15,4 @@ Now focused on using Agentic workflows and when it makes sense LLM workflows for
 
 ## Links
 
-[LinkedIn](https://www.linkedin.com/in/misza/) · [Blog](https://misza222.github.io/) · misza222@gmail.com
+[LinkedIn](https://www.linkedin.com/in/misza/) · misza222@gmail.com
